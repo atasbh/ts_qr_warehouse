@@ -1,3 +1,5 @@
 # Demand Analysis with Time Series method & Inventory Analysis with QR Method
 
+![Alt text](https://github.com/atasbh/demand_pred_CB/blob/main/Banner.png)
+
 In this project first, we want to predict the demand for 2023-2024 of a specific item in a Warehouse and then try to manage the inventory of this cargo based on the QR method. We use the 5 years old dataset for this project.
